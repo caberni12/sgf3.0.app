@@ -323,6 +323,7 @@ body.dark .checkin-detail-list article{background:rgba(22,163,74,.08)}body.dark 
 .mapa-radio.inicio{border-color:rgba(53,120,229,.9);background:rgba(53,120,229,.12)}
 .mapa-radio.fin{border-color:rgba(220,77,96,.92);background:rgba(220,77,96,.11)}
 .mapa-radio.operacional{border-color:rgba(14,159,145,.95);background:rgba(14,159,145,.15)}
+.mapa-radio.geocerca-domicilio{border:3px solid rgba(14,159,145,.95);background:rgba(14,159,145,.16);box-shadow:0 0 0 2px rgba(255,255,255,.72) inset,0 6px 20px rgba(14,159,145,.13)}
 .mapa-radio>span{position:absolute;left:50%;top:7px;transform:translateX(-50%);white-space:nowrap;border-radius:20px;padding:4px 8px;background:rgba(7,23,37,.88);color:#fff;font-size:9px;font-weight:800;box-shadow:0 4px 12px rgba(0,0,0,.2)}
 .map-status-legend .geofence{display:inline-block;width:15px;height:15px;border-radius:50%;border:2px solid var(--primary);background:rgba(14,159,145,.14);vertical-align:middle;margin-left:8px}
 .operation-location-status.valid.imprecise{border-color:#e4bd63;background:#fff8e7;color:#6f5316}
