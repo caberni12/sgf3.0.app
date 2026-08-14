@@ -1,0 +1,8 @@
+SGF WEB 4.3.25 · AJUSTE VISUAL FINAL REPORTES
+
+- Corrige recorte inferior del gráfico circular.
+- Elimina scroll vertical interno innecesario de Rendimiento por vehículo.
+- Centra correctamente una tendencia que contiene un solo período.
+- Reduce la altura excesiva de la línea de tendencia.
+- Mantiene encapsulados los estilos de Reportes y Publicación de Aplicación.
+- Producción usa bundles 4325 y revisión de caché 4.3.25.

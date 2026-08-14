@@ -1,0 +1,10 @@
+SGF WEB 4.3.24 · ESTILOS ALINEADOS
+
+Correcciones visuales:
+- Reportes: KPI circulares, donut, tendencia y tarjetas encapsulados para que CSS global/responsive no los deforme.
+- Actualización de Aplicación: formulario APK, metadatos, filtros y tablas contenidos dentro de su tarjeta en todos los anchos.
+- Todos los módulos incrustados usan la misma revisión de caché CSS 4.3.24-ui-final1.
+- Se agregó ajustes-visuales-modulos.css como última capa de cascada, con reglas encapsuladas por módulo.
+- No se modificó API, SQL ni lógica Android.
+
+Para producción: subir TODOS los archivos de WEB_PRODUCCION_PLANA juntos y hacer Ctrl+F5 una vez.
